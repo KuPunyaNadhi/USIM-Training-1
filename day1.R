@@ -166,13 +166,3 @@ paste("Ahmad","Halim", sep=" ")
 paste("2015","08","10",sep="-")
 dengue
 str(dengue)
-
-
-
-
-
-
-
-  
-
-
